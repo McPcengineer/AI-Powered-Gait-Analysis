@@ -16,4 +16,5 @@ This module analyzes a video file frame-by-frame using MediaPipe Pose to extract
 - Calculate angles using vector norms and cosine law
 
 ### Requirements
-pip install opencv-python mediapipe numpy
+```bash
+pip install tensorflow keras numpy matplotlib opencv-python pillow imutils
